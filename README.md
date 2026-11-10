@@ -1,4 +1,4 @@
-# ThymeCapsule | Finance, Valuation & Capital Markets
+# Finance, Valuation & Capital Markets
 
 I build analytical finance projects focused on **company valuation, financial modelling, banking, credit risk and capital markets**.
 
