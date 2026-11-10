@@ -1,36 +1,29 @@
 # Finance, Valuation & Capital Markets
 
-I build analytical finance projects focused on **company valuation, financial modelling, banking, credit risk and capital markets**.
-
-My work combines an academic foundation in accounting and finance with practical case studies designed to demonstrate how financial analysis supports investment decisions.
-
-## Focus areas
-
-- **Valuation:** discounted cash flow (DCF), trading comparables, precedent transactions, net asset value and excess-return methods
-- **Financial modelling:** integrated operating assumptions, cash-flow forecasting, capital structure and sensitivity analysis
-- **Banking & credit:** credit risk, provisioning analytics, bank performance and capital adequacy
-- **Capital markets:** fixed income, interest-rate risk, equity research and transaction analysis
-- **Tools:** Excel, financial statement analysis, Python and SQL (project work and ongoing development)
+I build analytical finance projects focused on **company valuation, financial modelling, banking, credit risk and capital markets**. My portfolio combines an accounting and finance foundation with practical case studies that demonstrate how financial analysis supports investment and corporate-finance decisions.
 
 ## Selected work
 
 | Project | Focus |
 |---|---|
-| [Investment Banking Portfolio](https://github.com/ThymeCapsule/investment-banking-portfolio) | Valuation models, investment cases, model reviews and transaction analysis |
+| [Investment Banking & Valuation Portfolio](https://github.com/ThymeCapsule/investment-banking-portfolio) | Reviewed DCF, forecast-period NAV and bank excess-return models, with one-page summaries, sensitivities, source registers and model-review notes |
 | [Banking & Credit Risk Analytics](https://github.com/ThymeCapsule/banking-credit-risk-analytics) | Banking analytics, credit risk and provisioning |
 | [Retail Financial Accountant Portfolio](https://github.com/ThymeCapsule/retail-financial-accountant-portfolio) | Financial reporting and accounting case studies |
 
-## Current development priorities
+## Valuation case studies
 
-1. Bring the Signet DCF to a fully reconciled, review-ready standard.
-2. Build a documented M&A transaction analysis, including valuation, deal rationale, financing and returns.
-3. Expand the portfolio with a three-statement model, trading comparables and a leveraged buyout case.
-4. Publish reproducible analytical work with clear assumptions, source references and review notes.
+- **Signet Jewelers:** unlevered DCF using Gordon-growth and exit-multiple methods.
+- **Northern Star Resources:** explicit FY27-FY36 forecast-period NAV; clearly distinguished from a full reserve-life NAV.
+- **NatWest Group:** excess-return / residual-income valuation with a peer cross-check.
+
+## Focus areas
+
+Valuation; financial modelling; financial statement analysis; banking and credit risk; fixed income; capital markets; transaction analysis.
 
 ## Approach
 
-I aim to make each project **transparent, traceable and decision-oriented**. Models should be auditable; assumptions should be sourced; outputs should be stress-tested; and limitations should be stated rather than hidden.
+I prioritise transparent assumptions, source-backed inputs, auditable calculations, sensitivity analysis and explicit disclosure of limitations. I distinguish company disclosures from analyst assumptions and avoid presenting simplified models as fully diligence-ready.
 
 ---
 
-*Independent educational and portfolio work. This repository is not investment research, investment advice or a representation of any employer or client.*
+*Independent educational portfolio work. These projects are not investment research, investment advice or a representation of any employer or client.*
