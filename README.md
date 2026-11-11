@@ -2,10 +2,7 @@
   <img src="assets/profile-banner.png" width="100%" alt="ThymeCapsule — approved blue-and-gold financial research banner" />
 </p>
 
-<p align="center">
-  <img src="assets/masthead.svg" width="100%" alt="Financial Analysis" />
-</p>
-
+# Financial Analysis
 
 ---
 
