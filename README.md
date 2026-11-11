@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" width="100%" alt="ThymeCapsule — valuation, banking, capital markets and financial modelling" />
+  <img src="assets/profile-banner.png" width="100%" alt="ThymeCapsule — approved blue-and-gold financial research banner" />
 </p>
 
 <p align="center">
