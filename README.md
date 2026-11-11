@@ -3,7 +3,6 @@
 </p>
 
 <p align="center">
-  <strong>THE ARCHITECTURE OF CAPITAL.</strong><br/>
   Independent financial analysis across valuation, banking, capital markets and financial modelling.
 </p>
 
