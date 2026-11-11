@@ -1,29 +1,41 @@
-# Finance, Valuation & Capital Markets
+<p align="center">
+  <img src="assets/profile-banner.svg" width="100%" alt="ThymeCapsule — valuation, banking, capital markets and financial modelling" />
+</p>
 
-I build analytical finance projects focused on **company valuation, financial modelling, banking, credit risk and capital markets**. My portfolio combines an accounting and finance foundation with practical case studies that demonstrate how financial analysis supports investment and corporate-finance decisions.
-
-## Selected work
-
-| Project | Focus |
-|---|---|
-| [Investment Banking & Valuation Portfolio](https://github.com/ThymeCapsule/investment-banking-portfolio) | Reviewed DCF, forecast-period NAV and bank excess-return models, with one-page summaries, sensitivities, source registers and model-review notes |
-| [Banking & Credit Risk Analytics](https://github.com/ThymeCapsule/banking-credit-risk-analytics) | Banking analytics, credit risk and provisioning |
-| [Retail Financial Accountant Portfolio](https://github.com/ThymeCapsule/retail-financial-accountant-portfolio) | Financial reporting and accounting case studies |
-
-## Valuation case studies
-
-- **Signet Jewelers:** unlevered DCF using Gordon-growth and exit-multiple methods.
-- **Northern Star Resources:** explicit FY27-FY36 forecast-period NAV; clearly distinguished from a full reserve-life NAV.
-- **NatWest Group:** excess-return / residual-income valuation with a peer cross-check.
-
-## Focus areas
-
-Valuation; financial modelling; financial statement analysis; banking and credit risk; fixed income; capital markets; transaction analysis.
-
-## Approach
-
-I prioritise transparent assumptions, source-backed inputs, auditable calculations, sensitivity analysis and explicit disclosure of limitations. I distinguish company disclosures from analyst assumptions and avoid presenting simplified models as fully diligence-ready.
+<p align="center">
+  <strong>THE ARCHITECTURE OF CAPITAL.</strong><br/>
+  Independent financial analysis across valuation, banking, capital markets and financial modelling.
+</p>
 
 ---
 
-*Independent educational portfolio work. These projects are not investment research, investment advice or a representation of any employer or client.*
+## Research divisions
+
+| Division | Coverage |
+|---|---|
+| **Valuation & Corporate Finance** | DCF, asset NAV, residual-income valuation, financial statement analysis and transaction analysis |
+| **Banking & Credit** | Bank business models, credit risk, provisioning, lending and financial institutions |
+| **Capital Markets** | Equity markets, debt issuance, fixed income, funding structures and securities |
+| **Quantitative Finance** | Financial modelling, scenario analysis, sensitivity testing and data-driven research |
+
+## Selected research
+
+| Company / project | Methodology | Work |
+|---|---|---|
+| **Signet Jewelers** | Unlevered DCF — Gordon growth and exit-multiple approaches | [Excel model](https://github.com/ThymeCapsule/investment-banking-portfolio/blob/main/valuation-case-studies/signet-jewelers/Signet_DCF_Reviewed.xlsx) · [Valuation summary](https://github.com/ThymeCapsule/investment-banking-portfolio/blob/main/valuation-case-studies/signet-jewelers/Signet_Valuation_Summary_Reviewed.pdf) |
+| **Northern Star Resources** | Forecast-period asset NAV | [Excel model](https://github.com/ThymeCapsule/investment-banking-portfolio/blob/main/valuation-case-studies/northern-star-resources/Northern_Star_Forecast_Period_NAV_Reviewed.xlsx) · [Valuation summary](https://github.com/ThymeCapsule/investment-banking-portfolio/blob/main/valuation-case-studies/northern-star-resources/Northern_Star_Valuation_Summary_Reviewed.pdf) |
+| **NatWest Group** | Excess-return / residual-income valuation | [Excel model](https://github.com/ThymeCapsule/investment-banking-portfolio/blob/main/valuation-case-studies/natwest-group/NatWest_Excess_Return_Model_Reviewed.xlsx) · [Valuation summary](https://github.com/ThymeCapsule/investment-banking-portfolio/blob/main/valuation-case-studies/natwest-group/NatWest_Valuation_Summary_Reviewed.pdf) |
+
+**Full portfolio:** [Investment Banking & Valuation Portfolio](https://github.com/ThymeCapsule/investment-banking-portfolio)
+
+## Analytical approach
+
+I prioritise transparent assumptions, source-backed inputs, auditable calculations, sensitivity analysis and explicit disclosure of model limitations. Company disclosures, market observations and analyst assumptions are distinguished rather than blended.
+
+## Technical toolkit
+
+**Excel** · **Python** · **R** · Financial modelling · Valuation · Financial statement analysis · Data analysis
+
+---
+
+<sub>Independent educational portfolio work. These projects are not investment research, investment advice, price targets or recommendations, and do not represent the views of any employer or client.</sub>
