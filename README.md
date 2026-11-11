@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="assets/profile-banner.png" width="100%" alt="ThymeCapsule — approved blue-and-gold financial research banner" />
+  <img src="assets/profile-banner.png" width="100%" alt="ThymeCapsule — financial analysis and research" />
 </p>
 
 # Financial Analysis
+
+<sub>VALUATION · BANKING · CAPITAL MARKETS · TRANSACTION ANALYSIS</sub>
 
 ---
 
@@ -12,7 +14,7 @@
 
 | **01 / VALUATION** | **02 / BANKING** |
 |---|---|
-| DCF, NAV, residual income, financial statements and transaction analysis. | Bank models, credit risk, provisioning and lending. |
+| DCF, NAV, residual income, financial statements and transaction analysis. | Bank business models, credit risk, provisioning and lending. |
 | **03 / MARKETS** | **04 / QUANTITATIVE** |
 | Equities, debt issuance, fixed income and funding structures. | Financial modelling, scenarios, sensitivity and data analysis. |
 
@@ -24,9 +26,11 @@
 
 ### Signet Jewelers
 
-*Unlevered DCF · Gordon growth · Exit-multiple approaches*
+*Unlevered DCF · Gordon growth · Exit-multiple cross-check*
 
-[EXCEL MODEL ↗](https://github.com/ThymeCapsule/investment-banking-portfolio/blob/main/valuation-case-studies/signet-jewelers/Signet_DCF_Reviewed.xlsx) · [VALUATION SUMMARY ↗](https://github.com/ThymeCapsule/investment-banking-portfolio/blob/main/valuation-case-studies/signet-jewelers/Signet_Valuation_Summary_Reviewed.pdf)
+[CASE STUDY ↗](https://github.com/ThymeCapsule/investment-banking-portfolio/tree/main/valuation-case-studies/signet-jewelers) · [MODEL REVIEW ↗](https://github.com/ThymeCapsule/investment-banking-portfolio/blob/main/docs/SIGNET_MODEL_REVIEW.md)
+
+<sub>Publication status: reconciliation required. Conflicting per-share outputs are being resolved; no headline valuation is presented as final.</sub>
 
 ---
 
@@ -34,9 +38,11 @@
 
 ### Northern Star Resources
 
-*Forecast-period asset NAV*
+*Forecast-period asset NAV · Gold production and mine-life scenarios*
 
-[EXCEL MODEL ↗](https://github.com/ThymeCapsule/investment-banking-portfolio/blob/main/valuation-case-studies/northern-star-resources/Northern_Star_Forecast_Period_NAV_Reviewed.xlsx) · [VALUATION SUMMARY ↗](https://github.com/ThymeCapsule/investment-banking-portfolio/blob/main/valuation-case-studies/northern-star-resources/Northern_Star_Valuation_Summary_Reviewed.pdf)
+[CASE STUDY ↗](https://github.com/ThymeCapsule/investment-banking-portfolio/tree/main/valuation-case-studies/northern-star-resources)
+
+<sub>Publication status: partial analysis. The current model is a finite FY27–FY36 forecast-period NAV with zero residual value, not a complete reserve-life valuation.</sub>
 
 ---
 
@@ -46,11 +52,25 @@
 
 *Excess-return · Residual-income valuation*
 
-[EXCEL MODEL ↗](https://github.com/ThymeCapsule/investment-banking-portfolio/blob/main/valuation-case-studies/natwest-group/NatWest_Excess_Return_Model_Reviewed.xlsx) · [VALUATION SUMMARY ↗](https://github.com/ThymeCapsule/investment-banking-portfolio/blob/main/valuation-case-studies/natwest-group/NatWest_Valuation_Summary_Reviewed.pdf)
+[CASE STUDY ↗](https://github.com/ThymeCapsule/investment-banking-portfolio/tree/main/valuation-case-studies/natwest-group)
+
+<sub>Publication status: simplified analysis. Regulatory capital, RWA and through-cycle credit assumptions require further integration.</sub>
 
 ---
 
-**PORTFOLIO INDEX**
+**CASE 004 / M&A AND TRANSACTION MODELLING**
+
+### Frasers Group / Accent Group
+
+*Takeover valuation · Offer analysis · Accretion / dilution*
+
+[TRANSACTION CASE STUDY ↗](https://github.com/ThymeCapsule/investment-banking-portfolio/tree/main/transaction-case-studies/frasers-accent) · [MODEL REVIEW ↗](https://github.com/ThymeCapsule/investment-banking-portfolio/blob/main/docs/FRASERS_ACCENT_MODEL_REVIEW.md)
+
+<sub>In development. The current workbook is a takeover valuation and illustrative EPS-accretion workbench, not a completed integrated merger model.</sub>
+
+---
+
+**FULL PORTFOLIO**
 
 [Investment Banking & Valuation Portfolio ↗](https://github.com/ThymeCapsule/investment-banking-portfolio)
 
@@ -58,12 +78,13 @@
   <img src="assets/section-03.svg" width="100%" alt="03 — Investment research method" />
 </p>
 
-I prioritise transparent assumptions, source-backed inputs, auditable calculations, sensitivity analysis and explicit disclosure of model limitations. Company disclosures, market observations and analyst assumptions are distinguished rather than blended.
+I approach each case from a defined financial question, then build the analysis from reported information, explicit assumptions and traceable calculations. Conclusions are presented in proportion to the evidence and the limitations of the model.
 
-- Source-backed financial inputs
-- Transparent modelling assumptions
-- Auditable calculations and valuation outputs
-- Sensitivity analysis and scenario testing
+- Primary-source financial inputs, with dates and units
+- Clear separation of reported facts and analyst assumptions
+- Auditable calculations and linked valuation outputs
+- Scenario and sensitivity analysis
+- Visible model checks, limitations and unresolved questions
 
 <p>
   <img src="assets/section-04.svg" width="100%" alt="04 — Technical capabilities" />
@@ -75,7 +96,11 @@ Excel · Python · R
 
 **Financial analysis**
 
-Corporate valuation · Financial modelling · Financial statement analysis · Fixed income · Credit analysis · Scenario analysis
+Corporate valuation · Financial statement analysis · Fixed income · Credit analysis · Scenario analysis · Transaction modelling
+
+**Modelling framework**
+
+[FINANCIAL MODELLING STANDARDS ↗](https://github.com/ThymeCapsule/investment-banking-portfolio/blob/main/docs/MODELLING_STANDARDS.md) · [CASE STUDY TEMPLATE ↗](https://github.com/ThymeCapsule/investment-banking-portfolio/blob/main/docs/CASE_STUDY_TEMPLATE.md) · [MODEL REVIEW REGISTER ↗](https://github.com/ThymeCapsule/investment-banking-portfolio/blob/main/docs/MODEL_REVIEW.md)
 
 ---
 
