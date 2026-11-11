@@ -4,7 +4,9 @@
 
 # Financial Analysis
 
-<sub>VALUATION · BANKING · CAPITAL MARKETS · TRANSACTION ANALYSIS</sub>
+<sub>INVESTMENT BANKING · CORPORATE FINANCE · VALUATION · CAPITAL MARKETS</sub>
+
+**Focus:** Investment banking analysis, financial modelling and transaction execution fundamentals. This portfolio documents independent case work—not employment by, endorsement from or affiliation with any investment bank.
 
 ---
 
@@ -70,9 +72,46 @@
 
 ---
 
-**FULL PORTFOLIO**
+<p>
+  <img src="assets/section-03.svg" width="100%" alt="03 — Investment banking capabilities" />
+</p>
+
+## Investment Banking
+
+The work is organised around the core analytical tasks used in corporate finance and M&A. Each capability is linked to evidence in the portfolio; work that is incomplete is labelled accordingly.
+
+| Workstream | Evidence / current status |
+|---|---|
+| **Valuation** | DCF, terminal-value methods, asset NAV and bank residual-income analysis across the three valuation cases. |
+| **Financial statement analysis** | Historical financial review and operating-driver analysis within the company models; further three-statement integration remains required. |
+| **M&A analysis** | Frasers / Accent takeover valuation, offer-price analysis and illustrative EPS accretion / dilution; full merger model still in development. |
+| **Trading comparables** | Preliminary peer analysis exists; peer selection, period alignment and accounting normalisation require further validation. |
+| **Transaction modelling** | Sources & uses, financing, purchase accounting and integrated pro forma statements are defined as the next build—not represented as completed. |
+| **Capital markets & financing** | Fixed-income and capital-structure research is a complementary area of study; no live deal execution is claimed. |
+
+**Technical toolkit:** Excel · Python · R
+
+**Modelling approach:** source-backed inputs · explicit assumptions · linked calculations · scenario analysis · sensitivity testing · model checks
+
+**Full investment banking portfolio**
 
 [Investment Banking & Valuation Portfolio ↗](https://github.com/ThymeCapsule/investment-banking-portfolio)
+
+<p>
+  <img src="assets/section-04.svg" width="100%" alt="04 — Research method and standards" />
+</p>
+
+I approach each case from a defined financial question, then build the analysis from reported information, explicit assumptions and traceable calculations. Conclusions are presented in proportion to the evidence and the limitations of the model.
+
+- Primary-source financial inputs, with dates and units
+- Clear separation of reported facts and analyst assumptions
+- Auditable calculations and linked valuation outputs
+- Scenario and sensitivity analysis
+- Visible model checks, limitations and unresolved questions
+
+**Modelling framework**
+
+[FINANCIAL MODELLING STANDARDS ↗](https://github.com/ThymeCapsule/investment-banking-portfolio/blob/main/docs/MODELLING_STANDARDS.md) · [CASE STUDY TEMPLATE ↗](https://github.com/ThymeCapsule/investment-banking-portfolio/blob/main/docs/CASE_STUDY_TEMPLATE.md) · [MODEL REVIEW REGISTER ↗](https://github.com/ThymeCapsule/investment-banking-portfolio/blob/main/docs/MODEL_REVIEW.md)
 
 <p>
   <img src="assets/section-03.svg" width="100%" alt="03 — Investment research method" />
@@ -93,14 +132,6 @@ I approach each case from a defined financial question, then build the analysis 
 **Programming & modelling**
 
 Excel · Python · R
-
-**Financial analysis**
-
-Corporate valuation · Financial statement analysis · Fixed income · Credit analysis · Scenario analysis · Transaction modelling
-
-**Modelling framework**
-
-[FINANCIAL MODELLING STANDARDS ↗](https://github.com/ThymeCapsule/investment-banking-portfolio/blob/main/docs/MODELLING_STANDARDS.md) · [CASE STUDY TEMPLATE ↗](https://github.com/ThymeCapsule/investment-banking-portfolio/blob/main/docs/CASE_STUDY_TEMPLATE.md) · [MODEL REVIEW REGISTER ↗](https://github.com/ThymeCapsule/investment-banking-portfolio/blob/main/docs/MODEL_REVIEW.md)
 
 ---
 
