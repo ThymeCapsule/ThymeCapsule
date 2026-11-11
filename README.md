@@ -3,22 +3,18 @@
 </p>
 
 <p align="center">
-  <sub>INDEPENDENT FINANCIAL RESEARCH</sub>
-</p>
-
-<h2 align="center">Financial analysis.<br/></h2>
-
-<p align="center">
-  Valuation · Banking · Capital markets · Financial modelling
+  <img src="assets/masthead.svg" width="100%" alt="ThymeCapsule — Financial analysis. Reconsidered." />
 </p>
 
 <p align="center">
-  <img src="assets/research-rule.svg" width="100%" alt="" />
+  Independent financial analysis across valuation, banking, capital markets and financial modelling.
 </p>
 
-<sub>01 / RESEARCH DIVISIONS</sub>
+---
 
-## Research divisions
+<p>
+  <img src="assets/section-01.svg" width="100%" alt="01 — Research divisions" />
+</p>
 
 | **01 / VALUATION** | **02 / BANKING** |
 |---|---|
@@ -26,13 +22,9 @@
 | **03 / MARKETS** | **04 / QUANTITATIVE** |
 | Equities, debt issuance, fixed income and funding structures. | Financial modelling, scenarios, sensitivity and data analysis. |
 
-<p align="center">
-  <img src="assets/research-rule.svg" width="100%" alt="" />
+<p>
+  <img src="assets/section-02.svg" width="100%" alt="02 — Selected research" />
 </p>
-
-<sub>02 / SELECTED RESEARCH</sub>
-
-## Research register
 
 **CASE 001 / CORPORATE VALUATION**
 
@@ -68,13 +60,9 @@
 
 [Investment Banking & Valuation Portfolio ↗](https://github.com/ThymeCapsule/investment-banking-portfolio)
 
-<p align="center">
-  <img src="assets/research-rule.svg" width="100%" alt="" />
+<p>
+  <img src="assets/section-03.svg" width="100%" alt="03 — Investment research method" />
 </p>
-
-<sub>03 / INVESTMENT RESEARCH METHOD</sub>
-
-## Analytical approach
 
 I prioritise transparent assumptions, source-backed inputs, auditable calculations, sensitivity analysis and explicit disclosure of model limitations. Company disclosures, market observations and analyst assumptions are distinguished rather than blended.
 
@@ -83,13 +71,9 @@ I prioritise transparent assumptions, source-backed inputs, auditable calculatio
 - Auditable calculations and valuation outputs
 - Sensitivity analysis and scenario testing
 
-<p align="center">
-  <img src="assets/research-rule.svg" width="100%" alt="" />
+<p>
+  <img src="assets/section-04.svg" width="100%" alt="04 — Technical capabilities" />
 </p>
-
-<sub>04 / TECHNICAL CAPABILITIES</sub>
-
-## Technical toolkit
 
 **Programming & modelling**
 
