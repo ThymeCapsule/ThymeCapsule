@@ -3,12 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="assets/masthead.svg" width="100%" alt="ThymeCapsule — Financial analysis." />
+  <img src="assets/masthead.svg" width="100%" alt="Financial Analysis" />
 </p>
 
-<p align="center">
-  Independent financial analysis across valuation, banking, capital markets and financial modelling.
-</p>
 
 ---
 
