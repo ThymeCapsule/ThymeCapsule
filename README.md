@@ -3,10 +3,18 @@
 </p>
 
 <p align="center">
-  Independent financial analysis across valuation, banking, capital markets and financial modelling.
+  <sub>INDEPENDENT FINANCIAL RESEARCH</sub>
 </p>
 
----
+<h2 align="center">Financial analysis.<br/>Reconsidered.</h2>
+
+<p align="center">
+  Valuation · Banking · Capital markets · Financial modelling
+</p>
+
+<p align="center">
+  <img src="assets/research-rule.svg" width="100%" alt="" />
+</p>
 
 <sub>01 / RESEARCH DIVISIONS</sub>
 
@@ -18,7 +26,9 @@
 | **03 / MARKETS** | **04 / QUANTITATIVE** |
 | Equities, debt issuance, fixed income and funding structures. | Financial modelling, scenarios, sensitivity and data analysis. |
 
----
+<p align="center">
+  <img src="assets/research-rule.svg" width="100%" alt="" />
+</p>
 
 <sub>02 / SELECTED RESEARCH</sub>
 
@@ -26,7 +36,7 @@
 
 **CASE 001 / CORPORATE VALUATION**
 
-**Signet Jewelers**
+### Signet Jewelers
 
 *Unlevered DCF · Gordon growth · Exit-multiple approaches*
 
@@ -36,7 +46,7 @@
 
 **CASE 002 / ASSET VALUATION**
 
-**Northern Star Resources**
+### Northern Star Resources
 
 *Forecast-period asset NAV*
 
@@ -46,7 +56,7 @@
 
 **CASE 003 / BANK VALUATION**
 
-**NatWest Group**
+### NatWest Group
 
 *Excess-return · Residual-income valuation*
 
@@ -58,7 +68,9 @@
 
 [Investment Banking & Valuation Portfolio ↗](https://github.com/ThymeCapsule/investment-banking-portfolio)
 
----
+<p align="center">
+  <img src="assets/research-rule.svg" width="100%" alt="" />
+</p>
 
 <sub>03 / INVESTMENT RESEARCH METHOD</sub>
 
@@ -71,7 +83,9 @@ I prioritise transparent assumptions, source-backed inputs, auditable calculatio
 - Auditable calculations and valuation outputs
 - Sensitivity analysis and scenario testing
 
----
+<p align="center">
+  <img src="assets/research-rule.svg" width="100%" alt="" />
+</p>
 
 <sub>04 / TECHNICAL CAPABILITIES</sub>
 
