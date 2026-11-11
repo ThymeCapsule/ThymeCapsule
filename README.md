@@ -8,6 +8,8 @@
 
 ---
 
+<sub>01 / RESEARCH DIVISIONS</sub>
+
 ## Research divisions
 
 | Division | Coverage |
@@ -17,6 +19,8 @@
 | **Capital Markets** | Equity markets, debt issuance, fixed income, funding structures and securities |
 | **Quantitative Finance** | Financial modelling, scenario analysis, sensitivity testing and data-driven research |
 
+<sub>02 / SELECTED RESEARCH</sub>
+
 ## Selected research
 
 | Company / project | Methodology | Work |
@@ -25,11 +29,15 @@
 | **Northern Star Resources** | Forecast-period asset NAV | [Excel model](https://github.com/ThymeCapsule/investment-banking-portfolio/blob/main/valuation-case-studies/northern-star-resources/Northern_Star_Forecast_Period_NAV_Reviewed.xlsx) · [Valuation summary](https://github.com/ThymeCapsule/investment-banking-portfolio/blob/main/valuation-case-studies/northern-star-resources/Northern_Star_Valuation_Summary_Reviewed.pdf) |
 | **NatWest Group** | Excess-return / residual-income valuation | [Excel model](https://github.com/ThymeCapsule/investment-banking-portfolio/blob/main/valuation-case-studies/natwest-group/NatWest_Excess_Return_Model_Reviewed.xlsx) · [Valuation summary](https://github.com/ThymeCapsule/investment-banking-portfolio/blob/main/valuation-case-studies/natwest-group/NatWest_Valuation_Summary_Reviewed.pdf) |
 
-**Full portfolio:** [Investment Banking & Valuation Portfolio](https://github.com/ThymeCapsule/investment-banking-portfolio)
+`PORTFOLIO INDEX` · **Full portfolio:** [Investment Banking & Valuation Portfolio](https://github.com/ThymeCapsule/investment-banking-portfolio)
+
+<sub>03 / INVESTMENT RESEARCH METHOD</sub>
 
 ## Analytical approach
 
 I prioritise transparent assumptions, source-backed inputs, auditable calculations, sensitivity analysis and explicit disclosure of model limitations. Company disclosures, market observations and analyst assumptions are distinguished rather than blended.
+
+<sub>04 / TECHNICAL CAPABILITIES</sub>
 
 ## Technical toolkit
 
