@@ -12,24 +12,53 @@
 
 ## Research divisions
 
-| Division | Coverage |
+| **01 / VALUATION** | **02 / BANKING** |
 |---|---|
-| **Valuation & Corporate Finance** | DCF, asset NAV, residual-income valuation, financial statement analysis and transaction analysis |
-| **Banking & Credit** | Bank business models, credit risk, provisioning, lending and financial institutions |
-| **Capital Markets** | Equity markets, debt issuance, fixed income, funding structures and securities |
-| **Quantitative Finance** | Financial modelling, scenario analysis, sensitivity testing and data-driven research |
+| DCF, NAV, residual income, financial statements and transaction analysis. | Bank models, credit risk, provisioning and lending. |
+| **03 / MARKETS** | **04 / QUANTITATIVE** |
+| Equities, debt issuance, fixed income and funding structures. | Financial modelling, scenarios, sensitivity and data analysis. |
+
+---
 
 <sub>02 / SELECTED RESEARCH</sub>
 
-## Selected research
+## Research register
 
-| Company / project | Methodology | Work |
-|---|---|---|
-| **Signet Jewelers** | Unlevered DCF — Gordon growth and exit-multiple approaches | [Excel model](https://github.com/ThymeCapsule/investment-banking-portfolio/blob/main/valuation-case-studies/signet-jewelers/Signet_DCF_Reviewed.xlsx) · [Valuation summary](https://github.com/ThymeCapsule/investment-banking-portfolio/blob/main/valuation-case-studies/signet-jewelers/Signet_Valuation_Summary_Reviewed.pdf) |
-| **Northern Star Resources** | Forecast-period asset NAV | [Excel model](https://github.com/ThymeCapsule/investment-banking-portfolio/blob/main/valuation-case-studies/northern-star-resources/Northern_Star_Forecast_Period_NAV_Reviewed.xlsx) · [Valuation summary](https://github.com/ThymeCapsule/investment-banking-portfolio/blob/main/valuation-case-studies/northern-star-resources/Northern_Star_Valuation_Summary_Reviewed.pdf) |
-| **NatWest Group** | Excess-return / residual-income valuation | [Excel model](https://github.com/ThymeCapsule/investment-banking-portfolio/blob/main/valuation-case-studies/natwest-group/NatWest_Excess_Return_Model_Reviewed.xlsx) · [Valuation summary](https://github.com/ThymeCapsule/investment-banking-portfolio/blob/main/valuation-case-studies/natwest-group/NatWest_Valuation_Summary_Reviewed.pdf) |
+**CASE 001 / CORPORATE VALUATION**
 
-`PORTFOLIO INDEX` · **Full portfolio:** [Investment Banking & Valuation Portfolio](https://github.com/ThymeCapsule/investment-banking-portfolio)
+**Signet Jewelers**
+
+*Unlevered DCF · Gordon growth · Exit-multiple approaches*
+
+[EXCEL MODEL ↗](https://github.com/ThymeCapsule/investment-banking-portfolio/blob/main/valuation-case-studies/signet-jewelers/Signet_DCF_Reviewed.xlsx) · [VALUATION SUMMARY ↗](https://github.com/ThymeCapsule/investment-banking-portfolio/blob/main/valuation-case-studies/signet-jewelers/Signet_Valuation_Summary_Reviewed.pdf)
+
+---
+
+**CASE 002 / ASSET VALUATION**
+
+**Northern Star Resources**
+
+*Forecast-period asset NAV*
+
+[EXCEL MODEL ↗](https://github.com/ThymeCapsule/investment-banking-portfolio/blob/main/valuation-case-studies/northern-star-resources/Northern_Star_Forecast_Period_NAV_Reviewed.xlsx) · [VALUATION SUMMARY ↗](https://github.com/ThymeCapsule/investment-banking-portfolio/blob/main/valuation-case-studies/northern-star-resources/Northern_Star_Valuation_Summary_Reviewed.pdf)
+
+---
+
+**CASE 003 / BANK VALUATION**
+
+**NatWest Group**
+
+*Excess-return · Residual-income valuation*
+
+[EXCEL MODEL ↗](https://github.com/ThymeCapsule/investment-banking-portfolio/blob/main/valuation-case-studies/natwest-group/NatWest_Excess_Return_Model_Reviewed.xlsx) · [VALUATION SUMMARY ↗](https://github.com/ThymeCapsule/investment-banking-portfolio/blob/main/valuation-case-studies/natwest-group/NatWest_Valuation_Summary_Reviewed.pdf)
+
+---
+
+**PORTFOLIO INDEX**
+
+[Investment Banking & Valuation Portfolio ↗](https://github.com/ThymeCapsule/investment-banking-portfolio)
+
+---
 
 <sub>03 / INVESTMENT RESEARCH METHOD</sub>
 
@@ -37,11 +66,24 @@
 
 I prioritise transparent assumptions, source-backed inputs, auditable calculations, sensitivity analysis and explicit disclosure of model limitations. Company disclosures, market observations and analyst assumptions are distinguished rather than blended.
 
+- Source-backed financial inputs
+- Transparent modelling assumptions
+- Auditable calculations and valuation outputs
+- Sensitivity analysis and scenario testing
+
+---
+
 <sub>04 / TECHNICAL CAPABILITIES</sub>
 
 ## Technical toolkit
 
-**Excel** · **Python** · **R** · Financial modelling · Valuation · Financial statement analysis · Data analysis
+**Programming & modelling**
+
+Excel · Python · R
+
+**Financial analysis**
+
+Corporate valuation · Financial modelling · Financial statement analysis · Fixed income · Credit analysis · Scenario analysis
 
 ---
 
