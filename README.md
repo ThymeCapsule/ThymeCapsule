@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/masthead.svg" width="100%" alt="ThymeCapsule — Financial analysis. Reconsidered." />
+  <img src="assets/masthead.svg" width="100%" alt="ThymeCapsule — Financial analysis." />
 </p>
 
 <p align="center">
