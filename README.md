@@ -6,7 +6,7 @@
   <sub>INDEPENDENT FINANCIAL RESEARCH</sub>
 </p>
 
-<h2 align="center">Financial analysis.<br/>Reconsidered.</h2>
+<h2 align="center">Financial analysis.<br/></h2>
 
 <p align="center">
   Valuation · Banking · Capital markets · Financial modelling
