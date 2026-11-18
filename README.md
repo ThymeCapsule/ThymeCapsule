@@ -44,7 +44,7 @@ An enterprise valuation examining forecast operating performance, free cash flow
 - Gordon Growth and Exit Multiple terminal value approaches
 - Key valuation assumptions and sensitivity considerations
 
-[EXCEL MODEL ↗](https://github.com/ThymeCapsule/investment-banking-portfolio/blob/main/valuation-case-studies/signet-jewelers/Signet_DCF_Reviewed.xlsx) · [VALUATION SUMMARY ↗](https://github.com/ThymeCapsule/investment-banking-portfolio/blob/main/valuation-case-studies/signet-jewelers/Signet_Valuation_Summary_Reviewed.pdf)
+[VIEW CASE STUDY & CURRENT MODEL ↗](https://github.com/ThymeCapsule/investment-banking-portfolio/tree/main/valuation-case-studies/signet-jewelers)
 
 ---
 
@@ -60,7 +60,7 @@ An asset-based valuation examining forecast-period asset value and the assumptio
 - Net asset value methodology
 - Assessment of key valuation assumptions
 
-[EXCEL MODEL ↗](https://github.com/ThymeCapsule/investment-banking-portfolio/blob/main/valuation-case-studies/northern-star-resources/Northern_Star_Forecast_Period_NAV_Reviewed.xlsx) · [VALUATION SUMMARY ↗](https://github.com/ThymeCapsule/investment-banking-portfolio/blob/main/valuation-case-studies/northern-star-resources/Northern_Star_Valuation_Summary_Reviewed.pdf)
+[VIEW CASE STUDY & CURRENT MODEL ↗](https://github.com/ThymeCapsule/investment-banking-portfolio/tree/main/valuation-case-studies/northern-star-resources)
 
 ---
 
@@ -68,15 +68,15 @@ An asset-based valuation examining forecast-period asset value and the assumptio
 
 **NatWest Group**
 
-*Excess Return · Residual Income Valuation*
+*Excess Return · Credit Risk · Regulatory Capital Analysis*
 
-A bank valuation applying the excess-return framework, with consideration of the relationship between book value, return on equity and the cost of equity.
+An independent analyst framework linking bank operating forecasts with credit scenarios, risk-weighted assets, regulatory capital and distribution constraints. The expanded model remains subject to the limitations and open calibration items documented in the case study; no updated per-share valuation is currently published.
 
-- Residual income valuation methodology
-- Return on equity and cost of equity considerations
-- Bank-specific valuation framework
+- Residual income and excess-return valuation framework
+- Credit scenario and expected credit loss analysis
+- Risk-weighted assets and regulatory capital projections
 
-[EXCEL MODEL ↗](https://github.com/ThymeCapsule/investment-banking-portfolio/blob/main/valuation-case-studies/natwest-group/NatWest_Excess_Return_Model_Reviewed.xlsx) · [VALUATION SUMMARY ↗](https://github.com/ThymeCapsule/investment-banking-portfolio/blob/main/valuation-case-studies/natwest-group/NatWest_Valuation_Summary_Reviewed.pdf)
+[VIEW CASE STUDY, MODEL & OPEN LIMITATIONS ↗](https://github.com/ThymeCapsule/investment-banking-portfolio/tree/main/valuation-case-studies/natwest-group)
 
 ---
 
