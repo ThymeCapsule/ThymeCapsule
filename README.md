@@ -5,81 +5,80 @@
 # THYME CAPSULE RESEARCH
 
 <p align="center">
-  <strong>CORPORATE FINANCE · INVESTMENT BANKING · BANKING & CREDIT · CAPITAL MARKETS</strong>
+  <strong>CORPORATE FINANCE · INVESTMENT BANKING · CAPITAL MARKETS</strong>
 </p>
 
-Independent financial research and modelling focused on company valuation, financial institutions, corporate credit and transaction analysis.
+Independent financial research and modelling focused on corporate valuation, mergers and acquisitions, financial institutions and corporate credit.
 
-The portfolio examines how businesses generate cash flow, allocate capital, manage financial risk and fund growth. Work is based on public company disclosures, with reported information distinguished from analyst assumptions and model limitations stated explicitly.
+My work examines how businesses generate cash flow, allocate capital, manage financial risk and evaluate strategic financing decisions. Research is grounded in publicly available company disclosures, with analyst assumptions and methodological limitations explicitly identified.
 
-**Core disciplines:** Valuation · Financial Modelling · Credit Analysis · Financial Statement Analysis · Capital Structure
+**Core disciplines:** Financial Modelling · Valuation · M&A Analysis · Credit Analysis · Capital Structure
 
 ---
 
-## SELECTED WORK
+## SELECTED RESEARCH
 
-### 01 / INVESTMENT BANKING & VALUATION
+### 01 / CORPORATE VALUATION & INVESTMENT BANKING
 
-**Company valuation and financial institutions**
+Company valuation and financial-institution analysis using established corporate finance methodologies.
 
-A collection of analyst case studies covering DCF valuation, asset-based valuation and bank valuation.
+- **Signet Jewelers** — Unlevered DCF valuation using Gordon Growth and exit-multiple approaches.
+- **Northern Star Resources** — Forecast-period asset net asset value analysis.
+- **NatWest Group** — Excess-return valuation framework, supported by credit and regulatory-capital analysis.
 
-- **Signet Jewelers** — unlevered DCF, Gordon Growth and exit-multiple approaches.
-- **Northern Star Resources** — forecast-period asset net asset value.
-- **NatWest Group** — excess-return valuation framework, with credit and regulatory-capital analysis.
+[OPEN INVESTMENT BANKING & VALUATION PORTFOLIO](https://github.com/ThymeCapsule/investment-banking-portfolio)
 
-[OPEN INVESTMENT BANKING & VALUATION PORTFOLIO ↗](https://github.com/ThymeCapsule/investment-banking-portfolio)
+### 02 / CORPORATE CREDIT & BANKING
 
-### 02 / CORPORATE CREDIT RISK
+Public-disclosure-based credit analysis of companies across luxury goods and resources, including LVMH, Richemont and BHP.
 
-**Public-disclosure-based analysis of operating companies**
+- Financial profile, operating performance and cash-flow analysis
+- Leverage, liquidity and debt-service assessment
+- Downside assumptions and credit sensitivities
+- Comparative issuer assessment and source documentation
 
-Credit analysis of real businesses across luxury goods and resources, including LVMH, Richemont and BHP.
+This is an independent issuer-level analytical assessment, not an internal bank credit rating or an IFRS 9 expected-credit-loss model.
 
-- Financial profile and operating performance
-- Downside assumptions and formula-driven credit sensitivities
-- Comparative issuer assessment and source register
-
-The work is an issuer-level analytical screen; it is not represented as an internal bank rating or an IFRS 9 expected-credit-loss model.
-
-[OPEN CORPORATE CREDIT RISK ANALYSIS ↗](https://github.com/ThymeCapsule/banking-credit-risk-analytics)
+[OPEN CORPORATE CREDIT RISK ANALYSIS](https://github.com/ThymeCapsule/banking-credit-risk-analytics)
 
 ---
 
 ## RESEARCH COVERAGE
 
-| **01 / CORPORATE FINANCE & VALUATION** | **02 / BANKING & CREDIT** |
+| Area | Research focus |
 |---|---|
-| DCF, comparable-company analysis, asset valuation, residual income, financial statement analysis and transaction analysis. | Bank financial analysis, corporate lending, credit risk, expected credit losses, liquidity and capital adequacy. |
-| **03 / CAPITAL MARKETS** | **04 / QUANTITATIVE RESEARCH** |
-| Debt financing, fixed income, bond valuation, funding structures, capital structure and interest-rate risk. | Financial modelling, forecasting, scenario analysis, sensitivity testing and data analysis. |
+| **Corporate Finance & Valuation** | DCF, comparable-company analysis, asset valuation, residual income, financial statement analysis and transaction analysis |
+| **Banking & Credit** | Bank financial analysis, corporate lending, credit risk, expected credit losses, liquidity and capital adequacy |
+| **Capital Markets** | Debt financing, fixed income, bond valuation, funding structures, capital structure and interest-rate risk |
+| **Quantitative Research** | Financial modelling, forecasting, scenario analysis, sensitivity testing and data analysis |
 
-## ANALYTICAL APPROACH
+## ANALYTICAL FRAMEWORK
 
-1. **Understand the business** — assess the business model, industry position, operating drivers and financial statements.
-2. **Establish the evidence** — use annual reports, company disclosures, investor presentations and relevant market data.
-3. **Build the analysis** — separate reported figures from estimates, assumptions and forecast inputs.
-4. **Test the conclusions** — use sensitivities and scenarios to assess valuation, credit and financing outcomes.
-5. **State the limitations** — document unresolved items, methodological constraints and areas requiring further diligence.
+1. **Understand the business** — Assess the business model, industry dynamics and financial drivers.
+2. **Establish the evidence base** — Review financial statements, company disclosures and relevant market data.
+3. **Build the analysis** — Develop valuation, forecasting and financial models.
+4. **Test the conclusions** — Apply sensitivities, scenarios and downside analysis.
+5. **State the limitations** — Distinguish reported data from assumptions and identify model constraints.
 
-Models are intended to be transparent, internally consistent and auditable. Outputs are presented with the assumptions and limitations needed to interpret them.
+The objective is to produce transparent, internally consistent and auditable analysis, with conclusions supported by evidence and assumptions.
 
 ## TECHNICAL CAPABILITIES
 
-| **FINANCIAL ANALYSIS** | **MODELLING & DATA** |
+| Area | Capabilities |
 |---|---|
-| Corporate valuation and financial statement analysis | Microsoft Excel |
-| Credit and financial-institution analysis | Python |
-| Fixed income and capital structure analysis | R |
-| Forecasting and scenario analysis | Sensitivity analysis and data automation |
+| **Financial Modelling** | DCF, forecasting, scenario and sensitivity analysis |
+| **Valuation** | Comparable-company analysis, asset-based valuation and residual income |
+| **Credit Analysis** | Leverage, liquidity, debt-service capacity and credit risk |
+| **Data Analysis** | Python, R and financial data analysis |
+| **Analytical Reporting** | Microsoft Excel, financial research and analytical reporting |
 
-## PROFESSIONAL ENGAGEMENT
+## PROFESSIONAL CONTACT
 
 I welcome professional conversations, thoughtful critique and opportunities to exchange perspectives on corporate finance, investment banking and financial markets.
 
 **LinkedIn:** [Bhagya M.](https://www.linkedin.com/in/bhagya-m-918929385/)  
-**Contact:** [bhagya.mahantesh14@gmail.com](mailto:bhagya.mahantesh14@gmail.com)
+**Email:** [bhagya.mahantesh14@gmail.com](mailto:bhagya.mahantesh14@gmail.com)
 
 ---
 
-<sub>**DISCLAIMER** — This is independent educational and analytical portfolio work. It does not constitute investment research, financial advice, a securities recommendation or a price target. Analyses do not represent live transactions, client engagements or the views of any employer or institution. Data, assumptions and methodologies should be assessed in the context of each individual project.</sub>
+<sub>**DISCLAIMER** — This repository contains independent financial research and analytical models prepared for educational and professional development purposes. It does not constitute investment advice, a securities recommendation or a formal valuation opinion. The work is based on publicly available information and reflects the assumptions and limitations documented in each project. It does not represent the views of any employer, client or institution.</sub>
