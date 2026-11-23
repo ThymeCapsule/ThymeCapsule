@@ -22,8 +22,10 @@ The work examines how businesses generate cash flow, allocate capital, manage fi
 
 Transaction work focused on offer valuation, deal structure, sponsor and strategic-investor economics, financing and merger implications.
 
-- **TPG / Corpay / BILL** — newly announced US$6.0bn take-private; analysis of the US$63.25 cash offer, majority / minority ownership structure, Corpay's US$1.1bn investment and stated 2030 option. Independent case study in progress; no valuation or returns outputs published.
-- **Frasers Group / Accent Group** — takeover valuation and preliminary accretion / dilution analysis. Full integrated merger model remains in development.
+- **TPG / Corpay / BILL** — US$6.0bn take-private; US$63.25 cash offer, TPG / Corpay ownership structure and Corpay's stated 2030 option.
+- **DoorDash / Instacart** — approximately US$17bn stock-and-cash merger; consideration elections, financing, accretion / dilution and regulatory risk.
+- **Intuit / Mailchimp** — US$3.68bn enterprise-value divestiture; carve-out economics and seller equity reinvestment.
+- **Frasers Group / Accent Group** — takeover valuation and preliminary accretion / dilution analysis.
 
 [OPEN TRANSACTION CASE STUDIES](https://github.com/ThymeCapsule/investment-banking-portfolio/tree/main/transaction-case-studies)
 
