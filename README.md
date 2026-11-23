@@ -25,6 +25,7 @@ Transaction work focused on offer valuation, deal structure, sponsor and strateg
 - **TPG / Corpay / BILL** — US$6.0bn take-private; US$63.25 cash offer, TPG / Corpay ownership structure and Corpay's stated 2030 option.
 - **DoorDash / Instacart** — approximately US$17bn stock-and-cash merger; consideration elections, financing, accretion / dilution and regulatory risk.
 - **Intuit / Mailchimp** — US$3.68bn enterprise-value divestiture; carve-out economics and seller equity reinvestment.
+- **Marvell / Lumentum** — US$115bn all-stock AI-connectivity combination; fixed exchange ratio, pro forma ownership and dilution analysis.
 - **Frasers Group / Accent Group** — takeover valuation and preliminary accretion / dilution analysis.
 
 [OPEN TRANSACTION CASE STUDIES](https://github.com/ThymeCapsule/investment-banking-portfolio/tree/main/transaction-case-studies)
